@@ -38,3 +38,6 @@ form{background-color:var(--main-bg-color) !important;border-color:var(--main-bg
 .spacer-1fA9zc{background-color:var(--main-bg-color) !important;}
 .textArea-2Spzkt{background-color:#0b0b0b;}
 .inner-zqa7da{background-color:var(--main-bg-color) !important;}
+.scrollbarGhost-2F9Zj2{background-color:black !important;color:rgb(192, 192, 192) !important;}
+pre{border:1px solid black !important;border-radius:5px !important;}
+.inline{background-color:black !important;color:rgb(192, 192, 192);}
