@@ -1,0 +1,40 @@
+//META{"name":"superdark","description":"Makes discord super dark.","author":"katznboyz","version":"1.0"}*//
+/*Since this script is meant to override other discord stylesheets, I'm going to use !important quite frequently.*/
+:root{--main-bg-color:#0b0b0b;--main-hover-bg-color:#0b0b0b;}
+
+.wrapper-1Rf91z{background-color:var(--main-bg-color);}
+.da-wrapper{background-color:var(--main-bg-color);}
+.scrollerWrap-2lJEkd{background-color:var(--main-bg-color);}
+.firefoxFixScrollFlex-cnI2ix{background-color:var(--main-bg-color);}
+.scrollerWrap-1IAIlv{background-color:var(--main-bg-color);}
+.scrollerThemed-2oenus{background-color:var(--main-bg-color);}
+.themeGhostHairline-DBD-2d{background-color:var(--main-bg-color);}
+.da-scrollerWrap{background-color:var(--main-bg-color);}
+.da-firefoxFixScrollFlex{background-color:var(--main-bg-color);}
+.da-scrollerThemed{background-color:var(--main-bg-color);}
+.da-themeGhostHairline{background-color:var(--main-bg-color);}
+.channels-Ie2l6A{background-color:var(--main-bg-color);}
+.name-3YKhmS{color:rgb(0, 255, 0);} /*The part that says the title of the chat in the top left corner.*/
+.title-3qD0b-{background-color:var(--main-bg-color) !important;} /*The part that says the title of the current selected channel, in the top center.*/
+.title-29uC1r{color:rgb(0, 255, 0) !important;}
+.icon-22AiRD{color:rgb(0, 255, 0) !important;}
+.da-searchBar{background-color:#0b0b0b !important;}
+.theme-dark{background-color:var(--main-bg-color);}
+.chat-3bRxxu{background-color:var(--main-bg-color);border-left:5px solid #0b0b0b;}
+.typeWindows-1za-n7{background-color:var(--main-bg-color);}
+.winButtonClose-1HsbF-{background-color:red;} /*the X button in the top right corner*/
+.winButtonMinMax-PBQ2gm{background-color:orange;} /*the minimize and maximize buttons in the top right corner*/
+.da-content{background-color:var(--main-bg-color);}
+.timestampCozy-2hLAPV{color:rgb(0, 255, 0) !important;}
+.containerCozy-336-Cz:hover{background-color:#0b0b0b;border:1px solid gray;}
+.markup-2BOw-j{color:rgb(192, 192, 192) !important;}
+.markup-2BOw-j:hover{color:white !important;cursor:text;}
+.flex-1xMQg5{background-color:var(--main-bg-color);border-color:black;}
+#app-mount{background-color:var(--main-bg-color) !important;}
+.container-2Thooq{background-color:var(--main-bg-color) !important;}
+.scroller-2FKFPG{background-color:var(--main-bg-color) !important;}
+form{background-color:var(--main-bg-color) !important;border-color:var(--main-bg-color) !important;}
+.scroller-2FKFPG::-webkit-scrollbar-track-piece{background-color:var(--main-bg-color) !important;border-color:var(--main-bg-color) !important;}
+.spacer-1fA9zc{background-color:var(--main-bg-color) !important;}
+.textArea-2Spzkt{background-color:#0b0b0b;}
+.inner-zqa7da{background-color:var(--main-bg-color) !important;}
