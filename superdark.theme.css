@@ -22,11 +22,11 @@
 .theme-dark{background-color:var(--main-bg-color);}
 .chat-3bRxxu{background-color:var(--main-bg-color);border-left:5px solid #0b0b0b;}
 .typeWindows-1za-n7{background-color:var(--main-bg-color);}
-.winButtonClose-1HsbF-{background-color:red;} /*the X button in the top right corner*/
-.winButtonMinMax-PBQ2gm{background-color:orange;} /*the minimize and maximize buttons in the top right corner*/
+.winButtonClose-1HsbF-{background-color:var(--main-bg-color);} /*the X button in the top right corner*/
+.winButtonMinMax-PBQ2gm{background-color:var(--main-bg-color);} /*the minimize and maximize buttons in the top right corner*/
 .da-content{background-color:var(--main-bg-color);}
 .timestampCozy-2hLAPV{color:rgb(0, 255, 0) !important;}
-.containerCozy-336-Cz:hover{background-color:#0b0b0b;border:1px solid gray;}
+.containerCozy-336-Cz:hover{background-color:#0b0b0b;}
 .markup-2BOw-j{color:rgb(192, 192, 192) !important;}
 .markup-2BOw-j:hover{color:white !important;cursor:text;}
 .flex-1xMQg5{background-color:var(--main-bg-color);border-color:black;}
@@ -44,3 +44,5 @@ pre{border:1px solid black !important;border-radius:5px !important;}
 .embed-IeVjo6{background-color:black;}
 .embedProvider-3k5pfl{color:white !important;}
 .embedDescription-1Cuq9a{color:rgb(192, 192, 192) !important;}
+
+/*Fix the background color of the menu that pops up when you use emojis*/
